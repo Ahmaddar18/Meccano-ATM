@@ -25,7 +25,7 @@
 			</section>
 		</div>
 		<footer>
-			<small>	Colorlib.com All rights reserved.Theme by Colorlib Powered by WordPress</small>
+			<small>	Made by: Ahmad Ijaz and Muhammad Danial Arshad </small>
 		</footer>
     </body>
 </html>
